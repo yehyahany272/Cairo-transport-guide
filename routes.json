@@ -1,0 +1,20 @@
+{
+  "routes": [
+    {
+      "name": "Line 1",
+      "stops": ["3rd District", "Arabella Square", "Arabella Plaza"]
+    },
+    {
+      "name": "Line 2",
+      "stops": ["Arabella Plaza", "ElHuda Market", "Nasr City"]
+    },
+    {
+      "name": "Line 3",
+      "stops": ["El3asher Square", "Mohamed Market", "Nasr City"]
+    },
+    {
+      "name": "Line 4",
+      "stops": ["Tahrir", "Ramses", "Abbasiya"]
+    }
+  ]
+}
